@@ -1,0 +1,418 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>PicClear Pro — Private On-Device Photo Cleaner</title>
+  <meta name="description" content="PicClear Pro helps you review duplicates, similar shots, blurry photos, screenshots, and large media privately on your iPhone. No cloud, ads, tracking, or subscription.">
+  <link rel="icon" href="assets/favicon.svg">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="bg"><span class="blob"></span></div>
+  <header>
+    <div class="wrap nav">
+      <a class="brand" href="index.html"><img class="icon" src="icon.png" alt="PicClear Pro"><span>PicClear Pro</span></a>
+      <nav class="nav-links" aria-label="Primary navigation">
+        <a href="index.html#features" data-i18n="navFeatures">Features</a>
+        <a href="privacy.html" data-i18n="navPrivacy">Privacy</a>
+        <a href="support.html" data-i18n="navSupport">Support</a>
+        <div class="lang" aria-label="Language selector">
+          <button class="btn-sm lang-btn" type="button" data-lang="en">EN</button>
+          <button class="btn-sm lang-btn" type="button" data-lang="zh-Hant">中文</button>
+          <button class="btn-sm lang-btn" type="button" data-lang="ja">日本語</button>
+          <button class="btn-sm lang-btn" type="button" data-lang="ko">한국어</button>
+        </div>
+        <a class="btn btn-sm" href="https://apps.apple.com/app/id6780223070" data-i18n="navDownload">Download</a>
+      </nav>
+    </div>
+  </header>
+  <main>
+    <section class="hero wrap reveal">
+      <img class="icon app-icon" src="icon.png" alt="PicClear Pro app icon">
+      <span class="eyebrow" data-i18n="heroEyebrow">Private photo cleanup</span>
+      <h1 data-i18n="heroTitle">Clean up photos without giving up privacy.</h1>
+      <p class="tagline" data-i18n="heroTagline">Find duplicates, similar shots, screenshots, blurry photos, and large media — all on device.</p>
+      <p class="sub" data-i18n="heroSub">PicClear Pro uses Apple frameworks on your iPhone to help you review what to delete. Photos are never uploaded, and nothing is removed without your confirmation.</p>
+      <div class="cta-row">
+        <a class="btn" href="https://apps.apple.com/app/id6780223070"><span class="store"><span class="appstore-sub" data-i18n="appStoreSmall">Download on the</span><b data-i18n="appStoreBig">App Store</b></span></a>
+        <a class="btn btn-ghost" href="#features" data-i18n="learnMore">Learn more</a>
+      </div>
+      <div class="badges">
+        <span class="pill" data-i18n="badge1">No cloud uploads</span>
+        <span class="pill" data-i18n="badge2">No account</span>
+        <span class="pill" data-i18n="badge3">No ads or tracking</span>
+        <span class="pill" data-i18n="badge4">One-time unlock</span>
+      </div>
+      <div class="device-stage" aria-hidden="true">
+        <div class="device"><div class="screen">
+          <span class="scr-label" data-i18n="screenLabel">Private scan</span>
+          <div class="scr-big"><span data-i18n="screenBig">On-device</span><br><span data-i18n="screenUnit">review</span></div>
+          <div class="scr-grid">
+            <div class="scr-card"><span class="ic"></span><b data-i18n="screenDup">Duplicates</b><small>128</small></div>
+            <div class="scr-card"><span class="ic"></span><b data-i18n="screenSimilar">Similar shots</b><small>342</small></div>
+            <div class="scr-card"><span class="ic"></span><b data-i18n="screenBlur">Blurry photos</b><small>47</small></div>
+            <div class="scr-card"><span class="ic"></span><b data-i18n="screenLarge">Large media</b><small>8.4 GB</small></div>
+          </div>
+          <div class="scr-cta" data-i18n="screenCta">Review before deleting</div>
+        </div></div>
+      </div>
+    </section>
+
+    <section id="features" class="wrap reveal">
+      <div class="section-title"><span class="eyebrow" data-i18n="featuresEyebrow">What it finds</span><h2 data-i18n="featuresTitle">A calmer way to free up storage.</h2><p data-i18n="featuresSub">PicClear Pro groups candidates for you to inspect, keeping the final decision in your hands.</p></div>
+      <div class="grid">
+        <article class="card"><span class="emoji">🖼️</span><h3 data-i18n="f1Title">Duplicate photos</h3><p data-i18n="f1Text">Find likely exact duplicates so you can keep the best copy and remove extras.</p></article>
+        <article class="card"><span class="emoji">✨</span><h3 data-i18n="f2Title">Similar shots</h3><p data-i18n="f2Text">Review near-identical bursts or repeated captures side by side before choosing what stays.</p></article>
+        <article class="card"><span class="emoji">📱</span><h3 data-i18n="f3Title">Screenshots</h3><p data-i18n="f3Text">Bring old screenshots into one place for fast review and cleanup.</p></article>
+        <article class="card"><span class="emoji">🌫️</span><h3 data-i18n="f4Title">Blurry photos</h3><p data-i18n="f4Text">Spot photos that may be out of focus, then confirm each deletion yourself.</p></article>
+        <article class="card"><span class="emoji">🎬</span><h3 data-i18n="f5Title">Large videos</h3><p data-i18n="f5Text">See space-heavy videos that may be worth removing from your library.</p></article>
+        <article class="card"><span class="emoji">💾</span><h3 data-i18n="f6Title">Large photos</h3><p data-i18n="f6Text">Find unusually large photos when you need to recover storage quickly.</p></article>
+      </div>
+    </section>
+
+    <section class="wrap reveal">
+      <div class="section-title"><span class="eyebrow" data-i18n="privacyEyebrow">Privacy first</span><h2 data-i18n="privacyTitle">Your library stays on your iPhone.</h2><p data-i18n="privacySub">Analysis runs on device with Apple Vision and PhotoKit. No photos, videos, thumbnails, or scan results are uploaded to our servers.</p></div>
+      <div class="bullets">
+        <div class="bullet"><span class="dot">1</span><div><b data-i18n="b1">On-device analysis only</b><br><span data-i18n="b1Text">Photos are processed locally using Apple frameworks.</span></div></div>
+        <div class="bullet"><span class="dot">2</span><div><b data-i18n="b2">No account</b><br><span data-i18n="b2Text">PicClear Pro does not ask you to sign in.</span></div></div>
+        <div class="bullet"><span class="dot">3</span><div><b data-i18n="b3">No ads or tracking</b><br><span data-i18n="b3Text">No third-party analytics, ad SDKs, or tracking SDKs are included.</span></div></div>
+        <div class="bullet"><span class="dot">4</span><div><b data-i18n="b4">Local data only</b><br><span data-i18n="b4Text">Counts, settings, and basic scan stats stay on your device.</span></div></div>
+      </div>
+    </section>
+
+    <section class="wrap reveal"><div class="band"><h2 data-i18n="priceTitle">Free to try. Pay once to delete.</h2><p data-i18n="priceSub">Download, scan, and preview for free. A single non-subscription In-App Purchase called Full Unlock enables deleting. Pay once, owned forever.</p><p class="price" data-i18n="price">No subscription. No ads.</p></div></section>
+    <section class="wrap reveal"><div class="band"><h2 data-i18n="supportTitle">Need help?</h2><p data-i18n="supportSub">Questions about cleanup, privacy, purchase restore, or deleted items? Visit support or email us.</p><div class="cta-row"><a class="btn" href="support.html" data-i18n="supportBtn">Open support</a></div></div></section>
+  </main>
+  <footer>
+    <div class="wrap">
+      <div class="foot">
+        <a class="brand" href="index.html"><img class="icon" src="icon.png" alt="PicClear Pro"><span>PicClear Pro</span></a>
+        <div class="foot-links">
+          <a href="index.html" data-i18n="footHome">Home</a>
+          <a href="privacy.html" data-i18n="footPrivacy">Privacy</a>
+          <a href="support.html" data-i18n="footSupport">Support</a>
+          <a href="mailto:hourstag.app@gmail.com">hourstag.app@gmail.com</a>
+        </div>
+      </div>
+      <p class="copy" data-i18n="copy">© 2026 Cait518. All rights reserved.</p>
+    </div>
+  </footer>
+<script>window.PICCLEAR_I18N = {
+  "en": {
+    "navFeatures": "Features",
+    "navPrivacy": "Privacy",
+    "navSupport": "Support",
+    "navDownload": "Download",
+    "footHome": "Home",
+    "footPrivacy": "Privacy",
+    "footSupport": "Support",
+    "copy": "© 2026 Cait518. All rights reserved.",
+    "switchTo": "Switch language to",
+    "metaTitle": "PicClear Pro — Private On-Device Photo Cleaner",
+    "metaDescription": "PicClear Pro helps you review duplicates, similar shots, blurry photos, screenshots, and large media privately on your iPhone. No cloud, ads, tracking, or subscription.",
+    "heroEyebrow": "Private photo cleanup",
+    "heroTitle": "Clean up photos without giving up privacy.",
+    "heroTagline": "Find duplicates, similar shots, screenshots, blurry photos, and large media — all on device.",
+    "heroSub": "PicClear Pro uses Apple frameworks on your iPhone to help you review what to delete. Photos are never uploaded, and nothing is removed without your confirmation.",
+    "appStoreSmall": "Download on the",
+    "appStoreBig": "App Store",
+    "learnMore": "Learn more",
+    "badge1": "No cloud uploads",
+    "badge2": "No account",
+    "badge3": "No ads or tracking",
+    "badge4": "One-time unlock",
+    "screenLabel": "Private scan",
+    "screenBig": "On-device",
+    "screenUnit": "review",
+    "screenDup": "Duplicates",
+    "screenSimilar": "Similar shots",
+    "screenBlur": "Blurry photos",
+    "screenLarge": "Large media",
+    "screenCta": "Review before deleting",
+    "featuresEyebrow": "What it finds",
+    "featuresTitle": "A calmer way to free up storage.",
+    "featuresSub": "PicClear Pro groups candidates for you to inspect, keeping the final decision in your hands.",
+    "f1Title": "Duplicate photos",
+    "f1Text": "Find likely exact duplicates so you can keep the best copy and remove extras.",
+    "f2Title": "Similar shots",
+    "f2Text": "Review near-identical bursts or repeated captures side by side before choosing what stays.",
+    "f3Title": "Screenshots",
+    "f3Text": "Bring old screenshots into one place for fast review and cleanup.",
+    "f4Title": "Blurry photos",
+    "f4Text": "Spot photos that may be out of focus, then confirm each deletion yourself.",
+    "f5Title": "Large videos",
+    "f5Text": "See space-heavy videos that may be worth removing from your library.",
+    "f6Title": "Large photos",
+    "f6Text": "Find unusually large photos when you need to recover storage quickly.",
+    "privacyEyebrow": "Privacy first",
+    "privacyTitle": "Your library stays on your iPhone.",
+    "privacySub": "Analysis runs on device with Apple Vision and PhotoKit. No photos, videos, thumbnails, or scan results are uploaded to our servers.",
+    "b1": "On-device analysis only",
+    "b1Text": "Photos are processed locally using Apple frameworks.",
+    "b2": "No account",
+    "b2Text": "PicClear Pro does not ask you to sign in.",
+    "b3": "No ads or tracking",
+    "b3Text": "No third-party analytics, ad SDKs, or tracking SDKs are included.",
+    "b4": "Local data only",
+    "b4Text": "Counts, settings, and basic scan stats stay on your device.",
+    "priceTitle": "Free to try. Pay once to delete.",
+    "priceSub": "Download, scan, and preview for free. A single non-subscription In-App Purchase called Full Unlock enables deleting. Pay once, owned forever.",
+    "price": "No subscription. No ads.",
+    "supportTitle": "Need help?",
+    "supportSub": "Questions about cleanup, privacy, purchase restore, or deleted items? Visit support or email us.",
+    "supportBtn": "Open support"
+  },
+  "zh-Hant": {
+    "navFeatures": "功能",
+    "navPrivacy": "隱私權",
+    "navSupport": "支援",
+    "navDownload": "下載",
+    "footHome": "首頁",
+    "footPrivacy": "隱私權",
+    "footSupport": "支援",
+    "copy": "© 2026 Cait518。保留所有權利。",
+    "switchTo": "切換語言至",
+    "metaTitle": "PicClear Pro — 私密的裝置端照片清理工具",
+    "metaDescription": "PicClear Pro 可在 iPhone 上私密協助檢視重複照片、相似照片、模糊照片、截圖與大型媒體。無雲端、無廣告、無追蹤、無訂閱。",
+    "heroEyebrow": "私密照片清理",
+    "heroTitle": "清理照片，不必犧牲隱私。",
+    "heroTagline": "找出重複照片、相似連拍、截圖、模糊照片與大型媒體 — 全部在裝置上完成。",
+    "heroSub": "PicClear Pro 使用 iPhone 內的 Apple 框架協助你檢視可刪除項目。照片絕不上傳，且沒有任何內容會在未經你確認前被移除。",
+    "appStoreSmall": "前往",
+    "appStoreBig": "App Store",
+    "learnMore": "了解更多",
+    "badge1": "不上傳雲端",
+    "badge2": "不需帳號",
+    "badge3": "無廣告、無追蹤",
+    "badge4": "一次買斷解鎖",
+    "screenLabel": "私密掃描",
+    "screenBig": "裝置端",
+    "screenUnit": "檢視",
+    "screenDup": "重複照片",
+    "screenSimilar": "相似照片",
+    "screenBlur": "模糊照片",
+    "screenLarge": "大型媒體",
+    "screenCta": "刪除前先檢視",
+    "featuresEyebrow": "可尋找的項目",
+    "featuresTitle": "用更安心的方式釋放儲存空間。",
+    "featuresSub": "PicClear Pro 會整理出候選項目供你檢查，最後決定權永遠在你手上。",
+    "f1Title": "重複照片",
+    "f1Text": "找出可能完全重複的照片，讓你保留最佳版本並移除多餘副本。",
+    "f2Title": "相似照片",
+    "f2Text": "將近似的連拍或重複拍攝集中檢視，再選擇要保留哪些。",
+    "f3Title": "截圖",
+    "f3Text": "把舊截圖集中到同一處，快速檢視與清理。",
+    "f4Title": "模糊照片",
+    "f4Text": "標示可能失焦的照片，並由你逐張確認是否刪除。",
+    "f5Title": "大型影片",
+    "f5Text": "查看佔用空間較多、可能值得移除的影片。",
+    "f6Title": "大型照片",
+    "f6Text": "在需要快速回收空間時，找出檔案特別大的照片。",
+    "privacyEyebrow": "隱私優先",
+    "privacyTitle": "你的照片圖庫只留在 iPhone 上。",
+    "privacySub": "分析使用 Apple Vision 與 PhotoKit 在裝置端執行。我們不會上傳照片、影片、縮圖或掃描結果到伺服器。",
+    "b1": "僅在裝置端分析",
+    "b1Text": "照片會以 Apple 框架在本機處理。",
+    "b2": "不需帳號",
+    "b2Text": "PicClear Pro 不要求登入。",
+    "b3": "無廣告或追蹤",
+    "b3Text": "不包含第三方分析、廣告 SDK 或追蹤 SDK。",
+    "b4": "僅儲存在本機",
+    "b4Text": "計數、設定與基本掃描統計會留在你的裝置上。",
+    "priceTitle": "免費試用。刪除功能一次買斷。",
+    "priceSub": "可免費下載、掃描與預覽。單一非訂閱制 App 內購買「Full Unlock」會啟用實際刪除功能。一次付費，永久擁有。",
+    "price": "無訂閱。無廣告。",
+    "supportTitle": "需要協助？",
+    "supportSub": "若對清理、隱私、恢復購買或已刪除項目有疑問，請查看支援頁或寄信給我們。",
+    "supportBtn": "開啟支援"
+  },
+  "ja": {
+    "navFeatures": "機能",
+    "navPrivacy": "プライバシー",
+    "navSupport": "サポート",
+    "navDownload": "ダウンロード",
+    "footHome": "ホーム",
+    "footPrivacy": "プライバシー",
+    "footSupport": "サポート",
+    "copy": "© 2026 Cait518。無断転載を禁じます。",
+    "switchTo": "言語を切り替え:",
+    "metaTitle": "PicClear Pro — プライベートなオンデバイス写真クリーナー",
+    "metaDescription": "PicClear Pro は、重複写真、似た写真、ぼやけた写真、スクリーンショット、大きなメディアを iPhone 上でプライベートに確認できます。クラウド、広告、トラッキング、サブスクリプションはありません。",
+    "heroEyebrow": "プライベートな写真整理",
+    "heroTitle": "プライバシーを守りながら、写真をすっきり整理。",
+    "heroTagline": "重複写真、似た写真、スクリーンショット、ぼやけた写真、大きなメディアを端末上で検出。",
+    "heroSub": "PicClear Pro は iPhone 上の Apple フレームワークを使い、削除候補の確認を支援します。写真はアップロードされず、確認なしに削除されることはありません。",
+    "appStoreSmall": "App Store で",
+    "appStoreBig": "ダウンロード",
+    "learnMore": "詳しく見る",
+    "badge1": "クラウド送信なし",
+    "badge2": "アカウント不要",
+    "badge3": "広告・追跡なし",
+    "badge4": "買い切りで解除",
+    "screenLabel": "プライベートスキャン",
+    "screenBig": "端末上",
+    "screenUnit": "確認",
+    "screenDup": "重複写真",
+    "screenSimilar": "似た写真",
+    "screenBlur": "ぼやけた写真",
+    "screenLarge": "大きなメディア",
+    "screenCta": "削除前に確認",
+    "featuresEyebrow": "見つけられるもの",
+    "featuresTitle": "ストレージを、落ち着いて整理。",
+    "featuresSub": "PicClear Pro は候補をまとめて表示し、最終判断はいつでもあなたに委ねます。",
+    "f1Title": "重複写真",
+    "f1Text": "ほぼ同一の重複写真を見つけ、最良の1枚を残して余分なコピーを削除できます。",
+    "f2Title": "似た写真",
+    "f2Text": "連写や繰り返し撮影した近い写真を並べて確認し、残すものを選べます。",
+    "f3Title": "スクリーンショット",
+    "f3Text": "古いスクリーンショットを一か所に集め、すばやく確認して整理できます。",
+    "f4Title": "ぼやけた写真",
+    "f4Text": "ピントが合っていない可能性のある写真を見つけ、削除は一枚ずつ自分で確認できます。",
+    "f5Title": "大きなビデオ",
+    "f5Text": "容量を多く使っている動画を確認し、削除候補にできます。",
+    "f6Title": "大きな写真",
+    "f6Text": "すぐに空き容量を増やしたいとき、サイズの大きい写真を見つけられます。",
+    "privacyEyebrow": "プライバシー最優先",
+    "privacyTitle": "写真ライブラリは iPhone の中に留まります。",
+    "privacySub": "分析は Apple Vision と PhotoKit を使って端末上で実行されます。写真、ビデオ、サムネイル、スキャン結果をサーバーへアップロードすることはありません。",
+    "b1": "オンデバイス分析のみ",
+    "b1Text": "写真は Apple フレームワークでローカル処理されます。",
+    "b2": "アカウント不要",
+    "b2Text": "PicClear Pro ではサインインを求めません。",
+    "b3": "広告・追跡なし",
+    "b3Text": "第三者分析、広告 SDK、トラッキング SDK は含まれていません。",
+    "b4": "ローカルデータのみ",
+    "b4Text": "件数、設定、基本的なスキャン統計は端末内に保存されます。",
+    "priceTitle": "無料で試せます。削除機能は買い切り。",
+    "priceSub": "ダウンロード、スキャン、プレビューは無料です。「Full Unlock」という一度限りの非サブスクリプション App 内課金で、実際の削除が有効になります。一度支払えばずっと使えます。",
+    "price": "サブスクリプションなし。広告なし。",
+    "supportTitle": "お困りですか？",
+    "supportSub": "整理、プライバシー、購入の復元、削除済み項目については、サポートページまたはメールでお問い合わせください。",
+    "supportBtn": "サポートを開く"
+  },
+  "ko": {
+    "navFeatures": "기능",
+    "navPrivacy": "개인정보",
+    "navSupport": "지원",
+    "navDownload": "다운로드",
+    "footHome": "홈",
+    "footPrivacy": "개인정보",
+    "footSupport": "지원",
+    "copy": "© 2026 Cait518. 모든 권리 보유.",
+    "switchTo": "언어 전환:",
+    "metaTitle": "PicClear Pro — 비공개 온디바이스 사진 정리 앱",
+    "metaDescription": "PicClear Pro는 iPhone에서 중복 사진, 비슷한 사진, 흐린 사진, 스크린샷, 큰 미디어를 비공개로 검토하도록 도와줍니다. 클라우드, 광고, 추적, 구독이 없습니다.",
+    "heroEyebrow": "비공개 사진 정리",
+    "heroTitle": "개인정보는 지키고, 사진은 깔끔하게 정리하세요.",
+    "heroTagline": "중복 사진, 비슷한 사진, 스크린샷, 흐린 사진, 큰 미디어를 모두 기기에서 찾습니다.",
+    "heroSub": "PicClear Pro는 iPhone의 Apple 프레임워크를 사용해 삭제 후보를 검토하도록 돕습니다. 사진은 업로드되지 않으며, 사용자의 확인 없이 삭제되지 않습니다.",
+    "appStoreSmall": "App Store에서",
+    "appStoreBig": "다운로드",
+    "learnMore": "자세히 보기",
+    "badge1": "클라우드 업로드 없음",
+    "badge2": "계정 없음",
+    "badge3": "광고·추적 없음",
+    "badge4": "일회성 잠금 해제",
+    "screenLabel": "비공개 스캔",
+    "screenBig": "기기 내",
+    "screenUnit": "검토",
+    "screenDup": "중복 사진",
+    "screenSimilar": "비슷한 사진",
+    "screenBlur": "흐린 사진",
+    "screenLarge": "큰 미디어",
+    "screenCta": "삭제 전 검토",
+    "featuresEyebrow": "찾을 수 있는 항목",
+    "featuresTitle": "더 차분하게 저장 공간을 비우세요.",
+    "featuresSub": "PicClear Pro는 후보 항목을 묶어 보여주고, 최종 결정은 항상 사용자가 합니다.",
+    "f1Title": "중복 사진",
+    "f1Text": "거의 동일한 중복 사진을 찾아 가장 좋은 한 장만 남기고 나머지를 정리할 수 있습니다.",
+    "f2Title": "비슷한 사진",
+    "f2Text": "연사나 반복 촬영으로 생긴 비슷한 사진을 나란히 확인하고 남길 항목을 선택하세요.",
+    "f3Title": "스크린샷",
+    "f3Text": "오래된 스크린샷을 한곳에 모아 빠르게 검토하고 정리합니다.",
+    "f4Title": "흐린 사진",
+    "f4Text": "초점이 맞지 않았을 수 있는 사진을 찾아, 삭제 여부는 직접 확인합니다.",
+    "f5Title": "큰 동영상",
+    "f5Text": "공간을 많이 차지하는 동영상을 확인하고 삭제 후보로 검토할 수 있습니다.",
+    "f6Title": "큰 사진",
+    "f6Text": "저장 공간을 빠르게 확보해야 할 때 용량이 큰 사진을 찾습니다.",
+    "privacyEyebrow": "개인정보 우선",
+    "privacyTitle": "사진 보관함은 iPhone 안에 그대로 있습니다.",
+    "privacySub": "분석은 Apple Vision과 PhotoKit을 사용해 기기에서 실행됩니다. 사진, 동영상, 썸네일, 스캔 결과는 서버로 업로드되지 않습니다.",
+    "b1": "온디바이스 분석만",
+    "b1Text": "사진은 Apple 프레임워크로 로컬 처리됩니다.",
+    "b2": "계정 없음",
+    "b2Text": "PicClear Pro는 로그인을 요구하지 않습니다.",
+    "b3": "광고 또는 추적 없음",
+    "b3Text": "타사 분석, 광고 SDK, 추적 SDK가 포함되어 있지 않습니다.",
+    "b4": "로컬 데이터만",
+    "b4Text": "개수, 설정, 기본 스캔 통계는 기기에 저장됩니다.",
+    "priceTitle": "무료로 사용해 보고, 삭제 기능은 한 번만 결제하세요.",
+    "priceSub": "다운로드, 스캔, 미리보기는 무료입니다. 비구독형 일회성 앱 내 구입 “Full Unlock”으로 실제 삭제 기능이 활성화됩니다. 한 번 결제하면 영구 소유입니다.",
+    "price": "구독 없음. 광고 없음.",
+    "supportTitle": "도움이 필요하신가요?",
+    "supportSub": "정리, 개인정보, 구매 복원, 삭제한 항목에 대한 질문은 지원 페이지를 확인하거나 이메일로 문의하세요.",
+    "supportBtn": "지원 열기"
+  }
+};</script>
+
+<script>
+(function () {
+  const supported = ['en', 'zh-Hant', 'ja', 'ko'];
+  const langNames = { en: 'English', 'zh-Hant': '繁體中文', ja: '日本語', ko: '한국어' };
+  function detectLang() {
+    const saved = localStorage.getItem('picclear_lang');
+    if (supported.includes(saved)) return saved;
+    const nav = (navigator.language || 'en').toLowerCase();
+    if (nav.startsWith('zh')) return 'zh-Hant';
+    if (nav.startsWith('ja')) return 'ja';
+    if (nav.startsWith('ko')) return 'ko';
+    return 'en';
+  }
+  function applyLang(lang) {
+    const dict = window.PICCLEAR_I18N[lang] || window.PICCLEAR_I18N.en;
+    document.documentElement.lang = lang;
+    document.title = dict.metaTitle;
+    const meta = document.querySelector('meta[name="description"]');
+    if (meta) meta.setAttribute('content', dict.metaDescription);
+    document.querySelectorAll('[data-i18n]').forEach(function (el) {
+      const value = dict[el.getAttribute('data-i18n')];
+      if (value !== undefined) el.textContent = value;
+    });
+    document.querySelectorAll('[data-i18n-html]').forEach(function (el) {
+      const value = dict[el.getAttribute('data-i18n-html')];
+      if (value !== undefined) el.innerHTML = value;
+    });
+    document.querySelectorAll('[data-i18n-aria]').forEach(function (el) {
+      const value = dict[el.getAttribute('data-i18n-aria')];
+      if (value !== undefined) el.setAttribute('aria-label', value);
+    });
+    document.querySelectorAll('[data-lang]').forEach(function (btn) {
+      const active = btn.getAttribute('data-lang') === lang;
+      btn.classList.toggle('active', active);
+      btn.setAttribute('aria-pressed', active ? 'true' : 'false');
+      btn.setAttribute('aria-label', (dict.switchTo || 'Switch language to') + ' ' + langNames[btn.getAttribute('data-lang')]);
+    });
+  }
+  window.setPicClearLang = function (lang) {
+    if (!supported.includes(lang)) return;
+    localStorage.setItem('picclear_lang', lang);
+    applyLang(lang);
+  };
+  document.addEventListener('DOMContentLoaded', function () {
+    document.querySelectorAll('[data-lang]').forEach(function (btn) {
+      btn.addEventListener('click', function () { window.setPicClearLang(btn.getAttribute('data-lang')); });
+    });
+    applyLang(detectLang());
+    const reveal = function () {
+      document.querySelectorAll('.reveal').forEach(function (el) {
+        if (el.getBoundingClientRect().top < window.innerHeight - 60) el.classList.add('in');
+      });
+    };
+    reveal(); window.addEventListener('scroll', reveal, { passive: true });
+  });
+}());
+</script>
+</body>
+</html>
