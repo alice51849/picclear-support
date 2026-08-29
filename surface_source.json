@@ -1,0 +1,1028 @@
+{
+  "app": {
+    "app_store_get_status": "200",
+    "app_store_id": "6780223070",
+    "kids": false,
+    "monetization": "free with optional one-time unlock",
+    "name": "PicClear Pro"
+  },
+  "authority_anchors": {
+    "index": [
+      "duplicate photos",
+      "old screenshots",
+      "large videos"
+    ],
+    "privacy": [
+      "PhotoKit",
+      "Recently Deleted",
+      "Full Unlock"
+    ]
+  },
+  "authority_sources": [
+    "00_Standards/localization.md",
+    "00_Standards/kids-compliance.md",
+    "00_Standards/app-requirements.md",
+    "authoritative-session/support_surface_contract.json",
+    "authoritative-session/crosspromo_config.json"
+  ],
+  "base_url": "https://alice51849.github.io/picclear-support/",
+  "content": {
+    "en-AU": {
+      "index": {
+        "app_name": "PicClear Pro",
+        "contact": "For help, include your device model, iOS version, app version and the steps that reproduce the issue.",
+        "description": "Scan for duplicate photos, old screenshots and large videos, review every selection, then choose what to remove.",
+        "eyebrow": "Official support site",
+        "heading": "PicClear Pro",
+        "labels": {
+          "app_store": "View on the App Store",
+          "contact": "Contact",
+          "home": "Home",
+          "language": "Language",
+          "privacy": "Privacy",
+          "support": "Support"
+        },
+        "lead": "Scan for duplicate photos, old screenshots and large videos, review every selection, then choose what to remove.",
+        "sections": [
+          [
+            "What the app does",
+            "Scan for duplicate photos, old screenshots and large videos, review every selection, then choose what to remove."
+          ],
+          [
+            "Data and privacy",
+            "Photo analysis and scan results stay on the device through Apple PhotoKit and Vision. Items are deleted only after confirmation and move through Apple Photos’ Recently Deleted behaviour."
+          ],
+          [
+            "Purchase",
+            "Scanning and previewing are free. A one-time Full Unlock purchase enables deletion; Apple handles the purchase."
+          ]
+        ],
+        "title": "PicClear Pro — Official support site"
+      },
+      "privacy": {
+        "app_name": "PicClear Pro",
+        "contact": "For help, include your device model, iOS version, app version and the steps that reproduce the issue.",
+        "description": "Photo analysis and scan results stay on the device through Apple PhotoKit and Vision. Items are deleted only after confirmation and move through Apple Photos’ Recently Deleted behaviour. Scanning and previewing are free. A one-time Full Unlock purchase enables deletion; Apple handles the purchase.",
+        "eyebrow": "Privacy",
+        "heading": "PicClear Pro · Privacy",
+        "labels": {
+          "app_store": "View on the App Store",
+          "contact": "Contact",
+          "home": "Home",
+          "language": "Language",
+          "privacy": "Privacy",
+          "support": "Support"
+        },
+        "lead": "Photo analysis and scan results stay on the device through Apple PhotoKit and Vision. Items are deleted only after confirmation and move through Apple Photos’ Recently Deleted behaviour.",
+        "sections": [
+          [
+            "Data and privacy",
+            "Photo analysis and scan results stay on the device through Apple PhotoKit and Vision. Items are deleted only after confirmation and move through Apple Photos’ Recently Deleted behaviour."
+          ],
+          [
+            "Accounts, ads and tracking",
+            "No account is required. The app contains no third-party advertising, cross-app tracking or third-party analytics."
+          ],
+          [
+            "Purchase",
+            "Scanning and previewing are free. A one-time Full Unlock purchase enables deletion; Apple handles the purchase."
+          ],
+          [
+            "Deletion and recovery",
+            "Delete records from inside the app when that control is available. Deleting the app removes its local container; Apple-managed backups remain governed by your device settings."
+          ]
+        ],
+        "title": "Privacy — PicClear Pro"
+      },
+      "support": {
+        "app_name": "PicClear Pro",
+        "contact": "For help, include your device model, iOS version, app version and the steps that reproduce the issue.",
+        "description": "Close and reopen the app, confirm that the latest App Store version is installed, and include the device model, iOS version, app version and steps to reproduce when emailing support. Photo analysis and scan results stay on the device through Apple PhotoKit and Vision. Items are deleted only after confirmation and move through Apple Photos’ Recently Deleted behaviour.",
+        "eyebrow": "Support",
+        "heading": "PicClear Pro · Support",
+        "labels": {
+          "app_store": "View on the App Store",
+          "contact": "Contact",
+          "home": "Home",
+          "language": "Language",
+          "privacy": "Privacy",
+          "support": "Support"
+        },
+        "lead": "Close and reopen the app, confirm that the latest App Store version is installed, and include the device model, iOS version, app version and steps to reproduce when emailing support.",
+        "sections": [
+          [
+            "What the app does",
+            "Scan for duplicate photos, old screenshots and large videos, review every selection, then choose what to remove."
+          ],
+          [
+            "Troubleshooting",
+            "Close and reopen the app, confirm that the latest App Store version is installed, and include the device model, iOS version, app version and steps to reproduce when emailing support."
+          ],
+          [
+            "Data and privacy",
+            "Photo analysis and scan results stay on the device through Apple PhotoKit and Vision. Items are deleted only after confirmation and move through Apple Photos’ Recently Deleted behaviour. No account is required. The app contains no third-party advertising, cross-app tracking or third-party analytics."
+          ],
+          [
+            "Purchase",
+            "Scanning and previewing are free. A one-time Full Unlock purchase enables deletion; Apple handles the purchase."
+          ],
+          [
+            "Deletion and recovery",
+            "Delete records from inside the app when that control is available. Deleting the app removes its local container; Apple-managed backups remain governed by your device settings."
+          ]
+        ],
+        "title": "Support — PicClear Pro"
+      }
+    },
+    "en-CA": {
+      "index": {
+        "app_name": "PicClear Pro",
+        "contact": "For help, include your device model, iOS version, app version and the steps that reproduce the issue.",
+        "description": "Scan for duplicate photos, old screenshots and large videos, review every selection, then choose what to remove.",
+        "eyebrow": "Official support site",
+        "heading": "PicClear Pro",
+        "labels": {
+          "app_store": "View on the App Store",
+          "contact": "Contact",
+          "home": "Home",
+          "language": "Language",
+          "privacy": "Privacy",
+          "support": "Support"
+        },
+        "lead": "Scan for duplicate photos, old screenshots and large videos, review every selection, then choose what to remove.",
+        "sections": [
+          [
+            "What the app does",
+            "Scan for duplicate photos, old screenshots and large videos, review every selection, then choose what to remove."
+          ],
+          [
+            "Data and privacy",
+            "Photo analysis and scan results stay on the device through Apple PhotoKit and Vision. Items are deleted only after confirmation and move through Apple Photos’ Recently Deleted behaviour."
+          ],
+          [
+            "Purchase",
+            "Scanning and previewing are free. A one-time Full Unlock purchase enables deletion; Apple handles the purchase."
+          ]
+        ],
+        "title": "PicClear Pro — Official support site"
+      },
+      "privacy": {
+        "app_name": "PicClear Pro",
+        "contact": "For help, include your device model, iOS version, app version and the steps that reproduce the issue.",
+        "description": "Photo analysis and scan results stay on the device through Apple PhotoKit and Vision. Items are deleted only after confirmation and move through Apple Photos’ Recently Deleted behaviour. Scanning and previewing are free. A one-time Full Unlock purchase enables deletion; Apple handles the purchase.",
+        "eyebrow": "Privacy",
+        "heading": "PicClear Pro · Privacy",
+        "labels": {
+          "app_store": "View on the App Store",
+          "contact": "Contact",
+          "home": "Home",
+          "language": "Language",
+          "privacy": "Privacy",
+          "support": "Support"
+        },
+        "lead": "Photo analysis and scan results stay on the device through Apple PhotoKit and Vision. Items are deleted only after confirmation and move through Apple Photos’ Recently Deleted behaviour.",
+        "sections": [
+          [
+            "Data and privacy",
+            "Photo analysis and scan results stay on the device through Apple PhotoKit and Vision. Items are deleted only after confirmation and move through Apple Photos’ Recently Deleted behaviour."
+          ],
+          [
+            "Accounts, ads and tracking",
+            "No account is required. The app contains no third-party advertising, cross-app tracking or third-party analytics."
+          ],
+          [
+            "Purchase",
+            "Scanning and previewing are free. A one-time Full Unlock purchase enables deletion; Apple handles the purchase."
+          ],
+          [
+            "Deletion and recovery",
+            "Delete records from inside the app when that control is available. Deleting the app removes its local container; Apple-managed backups remain governed by your device settings."
+          ]
+        ],
+        "title": "Privacy — PicClear Pro"
+      },
+      "support": {
+        "app_name": "PicClear Pro",
+        "contact": "For help, include your device model, iOS version, app version and the steps that reproduce the issue.",
+        "description": "Close and reopen the app, confirm that the latest App Store version is installed, and include the device model, iOS version, app version and steps to reproduce when emailing support. Photo analysis and scan results stay on the device through Apple PhotoKit and Vision. Items are deleted only after confirmation and move through Apple Photos’ Recently Deleted behaviour.",
+        "eyebrow": "Support",
+        "heading": "PicClear Pro · Support",
+        "labels": {
+          "app_store": "View on the App Store",
+          "contact": "Contact",
+          "home": "Home",
+          "language": "Language",
+          "privacy": "Privacy",
+          "support": "Support"
+        },
+        "lead": "Close and reopen the app, confirm that the latest App Store version is installed, and include the device model, iOS version, app version and steps to reproduce when emailing support.",
+        "sections": [
+          [
+            "What the app does",
+            "Scan for duplicate photos, old screenshots and large videos, review every selection, then choose what to remove."
+          ],
+          [
+            "Troubleshooting",
+            "Close and reopen the app, confirm that the latest App Store version is installed, and include the device model, iOS version, app version and steps to reproduce when emailing support."
+          ],
+          [
+            "Data and privacy",
+            "Photo analysis and scan results stay on the device through Apple PhotoKit and Vision. Items are deleted only after confirmation and move through Apple Photos’ Recently Deleted behaviour. No account is required. The app contains no third-party advertising, cross-app tracking or third-party analytics."
+          ],
+          [
+            "Purchase",
+            "Scanning and previewing are free. A one-time Full Unlock purchase enables deletion; Apple handles the purchase."
+          ],
+          [
+            "Deletion and recovery",
+            "Delete records from inside the app when that control is available. Deleting the app removes its local container; Apple-managed backups remain governed by your device settings."
+          ]
+        ],
+        "title": "Support — PicClear Pro"
+      }
+    },
+    "en-GB": {
+      "index": {
+        "app_name": "PicClear Pro",
+        "contact": "For help, include your device model, iOS version, app version and the steps that reproduce the issue.",
+        "description": "Scan for duplicate photos, old screenshots and large videos, review every selection, then choose what to remove.",
+        "eyebrow": "Official support site",
+        "heading": "PicClear Pro",
+        "labels": {
+          "app_store": "View on the App Store",
+          "contact": "Contact",
+          "home": "Home",
+          "language": "Language",
+          "privacy": "Privacy",
+          "support": "Support"
+        },
+        "lead": "Scan for duplicate photos, old screenshots and large videos, review every selection, then choose what to remove.",
+        "sections": [
+          [
+            "What the app does",
+            "Scan for duplicate photos, old screenshots and large videos, review every selection, then choose what to remove."
+          ],
+          [
+            "Data and privacy",
+            "Photo analysis and scan results stay on the device through Apple PhotoKit and Vision. Items are deleted only after confirmation and move through Apple Photos’ Recently Deleted behaviour."
+          ],
+          [
+            "Purchase",
+            "Scanning and previewing are free. A one-time Full Unlock purchase enables deletion; Apple handles the purchase."
+          ]
+        ],
+        "title": "PicClear Pro — Official support site"
+      },
+      "privacy": {
+        "app_name": "PicClear Pro",
+        "contact": "For help, include your device model, iOS version, app version and the steps that reproduce the issue.",
+        "description": "Photo analysis and scan results stay on the device through Apple PhotoKit and Vision. Items are deleted only after confirmation and move through Apple Photos’ Recently Deleted behaviour. Scanning and previewing are free. A one-time Full Unlock purchase enables deletion; Apple handles the purchase.",
+        "eyebrow": "Privacy",
+        "heading": "PicClear Pro · Privacy",
+        "labels": {
+          "app_store": "View on the App Store",
+          "contact": "Contact",
+          "home": "Home",
+          "language": "Language",
+          "privacy": "Privacy",
+          "support": "Support"
+        },
+        "lead": "Photo analysis and scan results stay on the device through Apple PhotoKit and Vision. Items are deleted only after confirmation and move through Apple Photos’ Recently Deleted behaviour.",
+        "sections": [
+          [
+            "Data and privacy",
+            "Photo analysis and scan results stay on the device through Apple PhotoKit and Vision. Items are deleted only after confirmation and move through Apple Photos’ Recently Deleted behaviour."
+          ],
+          [
+            "Accounts, ads and tracking",
+            "No account is required. The app contains no third-party advertising, cross-app tracking or third-party analytics."
+          ],
+          [
+            "Purchase",
+            "Scanning and previewing are free. A one-time Full Unlock purchase enables deletion; Apple handles the purchase."
+          ],
+          [
+            "Deletion and recovery",
+            "Delete records from inside the app when that control is available. Deleting the app removes its local container; Apple-managed backups remain governed by your device settings."
+          ]
+        ],
+        "title": "Privacy — PicClear Pro"
+      },
+      "support": {
+        "app_name": "PicClear Pro",
+        "contact": "For help, include your device model, iOS version, app version and the steps that reproduce the issue.",
+        "description": "Close and reopen the app, confirm that the latest App Store version is installed, and include the device model, iOS version, app version and steps to reproduce when emailing support. Photo analysis and scan results stay on the device through Apple PhotoKit and Vision. Items are deleted only after confirmation and move through Apple Photos’ Recently Deleted behaviour.",
+        "eyebrow": "Support",
+        "heading": "PicClear Pro · Support",
+        "labels": {
+          "app_store": "View on the App Store",
+          "contact": "Contact",
+          "home": "Home",
+          "language": "Language",
+          "privacy": "Privacy",
+          "support": "Support"
+        },
+        "lead": "Close and reopen the app, confirm that the latest App Store version is installed, and include the device model, iOS version, app version and steps to reproduce when emailing support.",
+        "sections": [
+          [
+            "What the app does",
+            "Scan for duplicate photos, old screenshots and large videos, review every selection, then choose what to remove."
+          ],
+          [
+            "Troubleshooting",
+            "Close and reopen the app, confirm that the latest App Store version is installed, and include the device model, iOS version, app version and steps to reproduce when emailing support."
+          ],
+          [
+            "Data and privacy",
+            "Photo analysis and scan results stay on the device through Apple PhotoKit and Vision. Items are deleted only after confirmation and move through Apple Photos’ Recently Deleted behaviour. No account is required. The app contains no third-party advertising, cross-app tracking or third-party analytics."
+          ],
+          [
+            "Purchase",
+            "Scanning and previewing are free. A one-time Full Unlock purchase enables deletion; Apple handles the purchase."
+          ],
+          [
+            "Deletion and recovery",
+            "Delete records from inside the app when that control is available. Deleting the app removes its local container; Apple-managed backups remain governed by your device settings."
+          ]
+        ],
+        "title": "Support — PicClear Pro"
+      }
+    },
+    "en-US": {
+      "index": {
+        "app_name": "PicClear Pro",
+        "contact": "For help, include your device model, iOS version, app version and the steps that reproduce the issue.",
+        "description": "Scan for duplicate photos, old screenshots and large videos, review every selection, then choose what to remove.",
+        "eyebrow": "Official support site",
+        "heading": "PicClear Pro",
+        "labels": {
+          "app_store": "View on the App Store",
+          "contact": "Contact",
+          "home": "Home",
+          "language": "Language",
+          "privacy": "Privacy",
+          "support": "Support"
+        },
+        "lead": "Scan for duplicate photos, old screenshots and large videos, review every selection, then choose what to remove.",
+        "sections": [
+          [
+            "What the app does",
+            "Scan for duplicate photos, old screenshots and large videos, review every selection, then choose what to remove."
+          ],
+          [
+            "Data and privacy",
+            "Photo analysis and scan results stay on the device through Apple PhotoKit and Vision. Items are deleted only after confirmation and move through Apple Photos’ Recently Deleted behaviour."
+          ],
+          [
+            "Purchase",
+            "Scanning and previewing are free. A one-time Full Unlock purchase enables deletion; Apple handles the purchase."
+          ]
+        ],
+        "title": "PicClear Pro — Official support site"
+      },
+      "privacy": {
+        "app_name": "PicClear Pro",
+        "contact": "For help, include your device model, iOS version, app version and the steps that reproduce the issue.",
+        "description": "Photo analysis and scan results stay on the device through Apple PhotoKit and Vision. Items are deleted only after confirmation and move through Apple Photos’ Recently Deleted behaviour. Scanning and previewing are free. A one-time Full Unlock purchase enables deletion; Apple handles the purchase.",
+        "eyebrow": "Privacy",
+        "heading": "PicClear Pro · Privacy",
+        "labels": {
+          "app_store": "View on the App Store",
+          "contact": "Contact",
+          "home": "Home",
+          "language": "Language",
+          "privacy": "Privacy",
+          "support": "Support"
+        },
+        "lead": "Photo analysis and scan results stay on the device through Apple PhotoKit and Vision. Items are deleted only after confirmation and move through Apple Photos’ Recently Deleted behaviour.",
+        "sections": [
+          [
+            "Data and privacy",
+            "Photo analysis and scan results stay on the device through Apple PhotoKit and Vision. Items are deleted only after confirmation and move through Apple Photos’ Recently Deleted behaviour."
+          ],
+          [
+            "Accounts, ads and tracking",
+            "No account is required. The app contains no third-party advertising, cross-app tracking or third-party analytics."
+          ],
+          [
+            "Purchase",
+            "Scanning and previewing are free. A one-time Full Unlock purchase enables deletion; Apple handles the purchase."
+          ],
+          [
+            "Deletion and recovery",
+            "Delete records from inside the app when that control is available. Deleting the app removes its local container; Apple-managed backups remain governed by your device settings."
+          ]
+        ],
+        "title": "Privacy — PicClear Pro"
+      },
+      "support": {
+        "app_name": "PicClear Pro",
+        "contact": "For help, include your device model, iOS version, app version and the steps that reproduce the issue.",
+        "description": "Close and reopen the app, confirm that the latest App Store version is installed, and include the device model, iOS version, app version and steps to reproduce when emailing support. Photo analysis and scan results stay on the device through Apple PhotoKit and Vision. Items are deleted only after confirmation and move through Apple Photos’ Recently Deleted behaviour.",
+        "eyebrow": "Support",
+        "heading": "PicClear Pro · Support",
+        "labels": {
+          "app_store": "View on the App Store",
+          "contact": "Contact",
+          "home": "Home",
+          "language": "Language",
+          "privacy": "Privacy",
+          "support": "Support"
+        },
+        "lead": "Close and reopen the app, confirm that the latest App Store version is installed, and include the device model, iOS version, app version and steps to reproduce when emailing support.",
+        "sections": [
+          [
+            "What the app does",
+            "Scan for duplicate photos, old screenshots and large videos, review every selection, then choose what to remove."
+          ],
+          [
+            "Troubleshooting",
+            "Close and reopen the app, confirm that the latest App Store version is installed, and include the device model, iOS version, app version and steps to reproduce when emailing support."
+          ],
+          [
+            "Data and privacy",
+            "Photo analysis and scan results stay on the device through Apple PhotoKit and Vision. Items are deleted only after confirmation and move through Apple Photos’ Recently Deleted behaviour. No account is required. The app contains no third-party advertising, cross-app tracking or third-party analytics."
+          ],
+          [
+            "Purchase",
+            "Scanning and previewing are free. A one-time Full Unlock purchase enables deletion; Apple handles the purchase."
+          ],
+          [
+            "Deletion and recovery",
+            "Delete records from inside the app when that control is available. Deleting the app removes its local container; Apple-managed backups remain governed by your device settings."
+          ]
+        ],
+        "title": "Support — PicClear Pro"
+      }
+    },
+    "or-IN": {
+      "index": {
+        "app_name": "PicClear Pro",
+        "contact": "ସହାୟତା ପାଇଁ ଡିଭାଇସ ମଡେଲ୍, iOS ସଂସ୍କରଣ, App ସଂସ୍କରଣ ଏବଂ ସମସ୍ୟା ପୁଣି କରିବାର ପଦକ୍ଷେପ ପଠାନ୍ତୁ।",
+        "description": "ନକଲ ଫଟୋ, ପୁରୁଣା screenshot ଏବଂ ବଡ଼ video ସ୍କାନ୍ କରନ୍ତୁ, ପ୍ରତ୍ୟେକ ଚୟନ ଯାଞ୍ଚ କରନ୍ତୁ, ତାପରେ କଣ ହଟାଇବେ ନିଜେ ବାଛନ୍ତୁ।",
+        "eyebrow": "ଆଧିକାରିକ ସହାୟତା ସାଇଟ୍",
+        "heading": "PicClear Pro",
+        "labels": {
+          "app_store": "App Storeରେ ଦେଖନ୍ତୁ",
+          "contact": "ଯୋଗାଯୋଗ",
+          "home": "ମୁଖ୍ୟ ପୃଷ୍ଠା",
+          "language": "ଭାଷା",
+          "privacy": "ଗୋପନୀୟତା",
+          "support": "ସହାୟତା"
+        },
+        "lead": "ନକଲ ଫଟୋ, ପୁରୁଣା screenshot ଏବଂ ବଡ଼ video ସ୍କାନ୍ କରନ୍ତୁ, ପ୍ରତ୍ୟେକ ଚୟନ ଯାଞ୍ଚ କରନ୍ତୁ, ତାପରେ କଣ ହଟାଇବେ ନିଜେ ବାଛନ୍ତୁ।",
+        "sections": [
+          [
+            "Appଟି କଣ କରେ",
+            "ନକଲ ଫଟୋ, ପୁରୁଣା screenshot ଏବଂ ବଡ଼ video ସ୍କାନ୍ କରନ୍ତୁ, ପ୍ରତ୍ୟେକ ଚୟନ ଯାଞ୍ଚ କରନ୍ତୁ, ତାପରେ କଣ ହଟାଇବେ ନିଜେ ବାଛନ୍ତୁ।"
+          ],
+          [
+            "ତଥ୍ୟ ଓ ଗୋପନୀୟତା",
+            "ଫଟୋ ବିଶ୍ଳେଷଣ ଓ ସ୍କାନ୍ ଫଳ Apple PhotoKit ଏବଂ Vision ଦ୍ୱାରା ଡିଭାଇସରେ ରହେ। ନିଶ୍ଚିତ କରିବା ପରେମାତ୍ର ଆଇଟମ୍ ବିଲୋପ ହୁଏ ଏବଂ Apple Photosର Recently Deletedକୁ ଯାଏ।"
+          ],
+          [
+            "କ୍ରୟ",
+            "ସ୍କାନ୍ ଓ ପୂର୍ବଦର୍ଶନ ମାଗଣା। ଏକମାତ୍ର Full Unlock କ୍ରୟ ବିଲୋପ ସୁବିଧା ଖୋଲେ; କ୍ରୟ Apple ପରିଚାଳନା କରେ।"
+          ]
+        ],
+        "title": "PicClear Pro — ଆଧିକାରିକ ସହାୟତା ସାଇଟ୍"
+      },
+      "privacy": {
+        "app_name": "PicClear Pro",
+        "contact": "ସହାୟତା ପାଇଁ ଡିଭାଇସ ମଡେଲ୍, iOS ସଂସ୍କରଣ, App ସଂସ୍କରଣ ଏବଂ ସମସ୍ୟା ପୁଣି କରିବାର ପଦକ୍ଷେପ ପଠାନ୍ତୁ।",
+        "description": "ଫଟୋ ବିଶ୍ଳେଷଣ ଓ ସ୍କାନ୍ ଫଳ Apple PhotoKit ଏବଂ Vision ଦ୍ୱାରା ଡିଭାଇସରେ ରହେ। ନିଶ୍ଚିତ କରିବା ପରେମାତ୍ର ଆଇଟମ୍ ବିଲୋପ ହୁଏ ଏବଂ Apple Photosର Recently Deletedକୁ ଯାଏ। ସ୍କାନ୍ ଓ ପୂର୍ବଦର୍ଶନ ମାଗଣା। ଏକମାତ୍ର Full Unlock କ୍ରୟ ବିଲୋପ ସୁବିଧା ଖୋଲେ; କ୍ରୟ Apple ପରିଚାଳନା କରେ।",
+        "eyebrow": "ଗୋପନୀୟତା",
+        "heading": "PicClear Pro · ଗୋପନୀୟତା",
+        "labels": {
+          "app_store": "App Storeରେ ଦେଖନ୍ତୁ",
+          "contact": "ଯୋଗାଯୋଗ",
+          "home": "ମୁଖ୍ୟ ପୃଷ୍ଠା",
+          "language": "ଭାଷା",
+          "privacy": "ଗୋପନୀୟତା",
+          "support": "ସହାୟତା"
+        },
+        "lead": "ଫଟୋ ବିଶ୍ଳେଷଣ ଓ ସ୍କାନ୍ ଫଳ Apple PhotoKit ଏବଂ Vision ଦ୍ୱାରା ଡିଭାଇସରେ ରହେ। ନିଶ୍ଚିତ କରିବା ପରେମାତ୍ର ଆଇଟମ୍ ବିଲୋପ ହୁଏ ଏବଂ Apple Photosର Recently Deletedକୁ ଯାଏ।",
+        "sections": [
+          [
+            "ତଥ୍ୟ ଓ ଗୋପନୀୟତା",
+            "ଫଟୋ ବିଶ୍ଳେଷଣ ଓ ସ୍କାନ୍ ଫଳ Apple PhotoKit ଏବଂ Vision ଦ୍ୱାରା ଡିଭାଇସରେ ରହେ। ନିଶ୍ଚିତ କରିବା ପରେମାତ୍ର ଆଇଟମ୍ ବିଲୋପ ହୁଏ ଏବଂ Apple Photosର Recently Deletedକୁ ଯାଏ।"
+          ],
+          [
+            "ଆକାଉଣ୍ଟ, ବିଜ୍ଞାପନ ଓ ଟ୍ରାକିଂ",
+            "କୌଣସି ଆକାଉଣ୍ଟ ଦରକାର ନାହିଁ। Appରେ ତୃତୀୟ-ପକ୍ଷ ବିଜ୍ଞାପନ, App ମଧ୍ୟରେ ଟ୍ରାକିଂ କିମ୍ବା ତୃତୀୟ-ପକ୍ଷ ବିଶ୍ଳେଷଣ ନାହିଁ।"
+          ],
+          [
+            "କ୍ରୟ",
+            "ସ୍କାନ୍ ଓ ପୂର୍ବଦର୍ଶନ ମାଗଣା। ଏକମାତ୍ର Full Unlock କ୍ରୟ ବିଲୋପ ସୁବିଧା ଖୋଲେ; କ୍ରୟ Apple ପରିଚାଳନା କରେ।"
+          ],
+          [
+            "ତଥ୍ୟ ବିଲୋପ ଓ ପୁନରୁଦ୍ଧାର",
+            "Appରେ ବିଲୋପ ବିକଳ୍ପ ଥିଲେ ସେଠାରୁ ରେକର୍ଡ ବିଲୋପ କରନ୍ତୁ। App ବିଲୋପ କଲେ ସ୍ଥାନୀୟ container ହଟିଯାଏ; Apple ପରିଚାଳିତ backup ଆପଣଙ୍କ ଡିଭାଇସ ସେଟିଂ ଅନୁସରେ ରହେ।"
+          ]
+        ],
+        "title": "ଗୋପନୀୟତା — PicClear Pro"
+      },
+      "support": {
+        "app_name": "PicClear Pro",
+        "contact": "ସହାୟତା ପାଇଁ ଡିଭାଇସ ମଡେଲ୍, iOS ସଂସ୍କରଣ, App ସଂସ୍କରଣ ଏବଂ ସମସ୍ୟା ପୁଣି କରିବାର ପଦକ୍ଷେପ ପଠାନ୍ତୁ।",
+        "description": "Appଟି ବନ୍ଦ କରି ପୁଣି ଖୋଲନ୍ତୁ, App Storeର ସବୁଠାରୁ ନୂତନ ସଂସ୍କରଣ ଇନଷ୍ଟଲ୍ ଅଛି କି ଯାଞ୍ଚ କରନ୍ତୁ। ଇମେଲ୍ କରିବାବେଳେ ଡିଭାଇସ ମଡେଲ୍, iOS ସଂସ୍କରଣ, App ସଂସ୍କରଣ ଓ ସମସ୍ୟା ପୁଣି କରିବାର ପଦକ୍ଷେପ ଲେଖନ୍ତୁ। ଫଟୋ ବିଶ୍ଳେଷଣ ଓ ସ୍କାନ୍ ଫଳ Apple PhotoKit ଏବଂ Vision ଦ୍ୱାରା ଡିଭାଇସରେ ରହେ। ନିଶ୍ଚିତ କରିବା ପରେମାତ୍ର ଆଇଟମ୍ ବିଲୋପ ହୁଏ ଏବଂ Apple Photosର Recently Deletedକୁ ଯାଏ।",
+        "eyebrow": "ସହାୟତା",
+        "heading": "PicClear Pro · ସହାୟତା",
+        "labels": {
+          "app_store": "App Storeରେ ଦେଖନ୍ତୁ",
+          "contact": "ଯୋଗାଯୋଗ",
+          "home": "ମୁଖ୍ୟ ପୃଷ୍ଠା",
+          "language": "ଭାଷା",
+          "privacy": "ଗୋପନୀୟତା",
+          "support": "ସହାୟତା"
+        },
+        "lead": "Appଟି ବନ୍ଦ କରି ପୁଣି ଖୋଲନ୍ତୁ, App Storeର ସବୁଠାରୁ ନୂତନ ସଂସ୍କରଣ ଇନଷ୍ଟଲ୍ ଅଛି କି ଯାଞ୍ଚ କରନ୍ତୁ। ଇମେଲ୍ କରିବାବେଳେ ଡିଭାଇସ ମଡେଲ୍, iOS ସଂସ୍କରଣ, App ସଂସ୍କରଣ ଓ ସମସ୍ୟା ପୁଣି କରିବାର ପଦକ୍ଷେପ ଲେଖନ୍ତୁ।",
+        "sections": [
+          [
+            "Appଟି କଣ କରେ",
+            "ନକଲ ଫଟୋ, ପୁରୁଣା screenshot ଏବଂ ବଡ଼ video ସ୍କାନ୍ କରନ୍ତୁ, ପ୍ରତ୍ୟେକ ଚୟନ ଯାଞ୍ଚ କରନ୍ତୁ, ତାପରେ କଣ ହଟାଇବେ ନିଜେ ବାଛନ୍ତୁ।"
+          ],
+          [
+            "ସମସ୍ୟା ସମାଧାନ",
+            "Appଟି ବନ୍ଦ କରି ପୁଣି ଖୋଲନ୍ତୁ, App Storeର ସବୁଠାରୁ ନୂତନ ସଂସ୍କରଣ ଇନଷ୍ଟଲ୍ ଅଛି କି ଯାଞ୍ଚ କରନ୍ତୁ। ଇମେଲ୍ କରିବାବେଳେ ଡିଭାଇସ ମଡେଲ୍, iOS ସଂସ୍କରଣ, App ସଂସ୍କରଣ ଓ ସମସ୍ୟା ପୁଣି କରିବାର ପଦକ୍ଷେପ ଲେଖନ୍ତୁ।"
+          ],
+          [
+            "ତଥ୍ୟ ଓ ଗୋପନୀୟତା",
+            "ଫଟୋ ବିଶ୍ଳେଷଣ ଓ ସ୍କାନ୍ ଫଳ Apple PhotoKit ଏବଂ Vision ଦ୍ୱାରା ଡିଭାଇସରେ ରହେ। ନିଶ୍ଚିତ କରିବା ପରେମାତ୍ର ଆଇଟମ୍ ବିଲୋପ ହୁଏ ଏବଂ Apple Photosର Recently Deletedକୁ ଯାଏ। କୌଣସି ଆକାଉଣ୍ଟ ଦରକାର ନାହିଁ। Appରେ ତୃତୀୟ-ପକ୍ଷ ବିଜ୍ଞାପନ, App ମଧ୍ୟରେ ଟ୍ରାକିଂ କିମ୍ବା ତୃତୀୟ-ପକ୍ଷ ବିଶ୍ଳେଷଣ ନାହିଁ।"
+          ],
+          [
+            "କ୍ରୟ",
+            "ସ୍କାନ୍ ଓ ପୂର୍ବଦର୍ଶନ ମାଗଣା। ଏକମାତ୍ର Full Unlock କ୍ରୟ ବିଲୋପ ସୁବିଧା ଖୋଲେ; କ୍ରୟ Apple ପରିଚାଳନା କରେ।"
+          ],
+          [
+            "ତଥ୍ୟ ବିଲୋପ ଓ ପୁନରୁଦ୍ଧାର",
+            "Appରେ ବିଲୋପ ବିକଳ୍ପ ଥିଲେ ସେଠାରୁ ରେକର୍ଡ ବିଲୋପ କରନ୍ତୁ। App ବିଲୋପ କଲେ ସ୍ଥାନୀୟ container ହଟିଯାଏ; Apple ପରିଚାଳିତ backup ଆପଣଙ୍କ ଡିଭାଇସ ସେଟିଂ ଅନୁସରେ ରହେ।"
+          ]
+        ],
+        "title": "ସହାୟତା — PicClear Pro"
+      }
+    }
+  },
+  "crosspromo_labels": {
+    "en-AU": {
+      "guides": "More app guides and practical tips",
+      "heading": "More apps from the same developer",
+      "store_note": "Links open the App Store."
+    },
+    "en-CA": {
+      "guides": "More app guides and practical tips",
+      "heading": "More apps from the same developer",
+      "store_note": "Links open the App Store."
+    },
+    "en-GB": {
+      "guides": "More app guides and practical tips",
+      "heading": "More apps from the same developer",
+      "store_note": "Links open the App Store."
+    },
+    "en-US": {
+      "guides": "More app guides and practical tips",
+      "heading": "More apps from the same developer",
+      "store_note": "Links open the App Store."
+    },
+    "or-IN": {
+      "guides": "ଅଧିକ ଆପ୍ ଗାଇଡ୍ ଏବଂ ବ୍ୟବହାର ପରାମର୍ଶ",
+      "heading": "ସେହି ଡେଭେଲପରଙ୍କ ଅଧିକ ଆପ୍",
+      "store_note": "ଲିଙ୍କଗୁଡ଼ିକ App Store ଖୋଲିବ।"
+    }
+  },
+  "crosspromo_source": "ar-SA/index.html",
+  "generated_surfaces": [
+    "en-AU/index.html",
+    "en-AU/privacy.html",
+    "en-AU/support.html",
+    "en-CA/index.html",
+    "en-CA/privacy.html",
+    "en-CA/support.html",
+    "en-GB/index.html",
+    "en-GB/privacy.html",
+    "en-GB/support.html",
+    "en-US/index.html",
+    "en-US/privacy.html",
+    "en-US/support.html",
+    "or-IN/index.html",
+    "or-IN/privacy.html",
+    "or-IN/support.html"
+  ],
+  "hourstag_paid": {},
+  "integration_base": "693034e02824966ef83d6c1f114bb597efc411db",
+  "integration_date": "2026-08-29",
+  "locale_names": {
+    "ar-SA": "العربية",
+    "bn-BD": "বাংলা",
+    "ca": "Català",
+    "cs": "Čeština",
+    "da": "Dansk",
+    "de-DE": "Deutsch",
+    "el": "Ελληνικά",
+    "en-AU": "English (Australia)",
+    "en-CA": "English (Canada)",
+    "en-GB": "English (United Kingdom)",
+    "en-US": "English (United States)",
+    "es-ES": "Español (España)",
+    "es-MX": "Español (México)",
+    "fi": "Suomi",
+    "fr-CA": "Français (Canada)",
+    "fr-FR": "Français (France)",
+    "gu-IN": "ગુજરાતી",
+    "he": "עברית",
+    "hi": "हिन्दी",
+    "hr": "Hrvatski",
+    "hu": "Magyar",
+    "id": "Bahasa Indonesia",
+    "it": "Italiano",
+    "ja": "日本語",
+    "kn-IN": "ಕನ್ನಡ",
+    "ko": "한국어",
+    "ml-IN": "മലയാളം",
+    "mr-IN": "मराठी",
+    "ms": "Bahasa Melayu",
+    "nl-NL": "Nederlands",
+    "no": "Norsk",
+    "or-IN": "ଓଡ଼ିଆ",
+    "pa-IN": "ਪੰਜਾਬੀ",
+    "pl": "Polski",
+    "pt-BR": "Português (Brasil)",
+    "pt-PT": "Português (Portugal)",
+    "ro": "Română",
+    "ru": "Русский",
+    "sk": "Slovenčina",
+    "sl-SI": "Slovenščina",
+    "sv": "Svenska",
+    "ta-IN": "தமிழ்",
+    "te-IN": "తెలుగు",
+    "th": "ไทย",
+    "tr": "Türkçe",
+    "uk": "Українська",
+    "ur-PK": "اردو",
+    "vi": "Tiếng Việt",
+    "zh-Hans": "简体中文",
+    "zh-Hant": "繁體中文"
+  },
+  "official_locales": [
+    "ar-SA",
+    "bn-BD",
+    "ca",
+    "zh-Hans",
+    "zh-Hant",
+    "hr",
+    "cs",
+    "da",
+    "nl-NL",
+    "en-AU",
+    "en-CA",
+    "en-GB",
+    "en-US",
+    "fi",
+    "fr-CA",
+    "fr-FR",
+    "de-DE",
+    "el",
+    "gu-IN",
+    "he",
+    "hi",
+    "hu",
+    "id",
+    "it",
+    "ja",
+    "kn-IN",
+    "ko",
+    "ms",
+    "ml-IN",
+    "mr-IN",
+    "no",
+    "or-IN",
+    "pl",
+    "pt-BR",
+    "pt-PT",
+    "pa-IN",
+    "ro",
+    "ru",
+    "sk",
+    "sl-SI",
+    "es-MX",
+    "es-ES",
+    "sv",
+    "ta-IN",
+    "te-IN",
+    "th",
+    "tr",
+    "uk",
+    "ur-PK",
+    "vi"
+  ],
+  "palette": {
+    "accent": "#0f9fa8",
+    "accent2": "#6366f1"
+  },
+  "parent_notice": {},
+  "preserved_hreflang_aliases": [
+    "en"
+  ],
+  "preserved_root_hreflang_locales": [
+    "en",
+    "en-AU",
+    "en-CA",
+    "en-GB"
+  ],
+  "preserved_root_hreflang_targets": {
+    "index": "https://alice51849.github.io/picclear-support/",
+    "privacy": "https://alice51849.github.io/picclear-support/privacy.html",
+    "support": "https://alice51849.github.io/picclear-support/support.html"
+  },
+  "preserved_sitemap_sha256": "bc96d8da1e426d074e845e4ddd72802bef0167c45e7235e1c99f43f8dbda6b8e",
+  "preserved_surface_sha256": {
+    "ar-SA/index.html": "93997d9e41f4e6aaf82ad644cad851c52c59c75f6617fee4fa85c6f5e2aa5117",
+    "ar-SA/privacy.html": "8f3e6e0769ed66c442a741c148b7df562f0579a338b7c2133b4437ca05064cb8",
+    "ar-SA/support.html": "a503966ac460506b9e89c9709baf4177e4a944146cdff583fd65f4573eaa49f1",
+    "bn-BD/index.html": "efe4d5acc6968fe026fb7d4e81169e6a9f16735812e902b82a94d1c2d4d95734",
+    "bn-BD/privacy.html": "110a103f02e5ff29396c150d1a0b534512c6efefe9c77562a75c0ac27ed6bbbf",
+    "bn-BD/support.html": "7edb07a20c9197830f394494ddf66b21ab54b15320466f98fc5f37e14314841e",
+    "ca/index.html": "b26b681b7fb91ebfa9ca39e8c89a5515319e404419dcbf6a934d8291df7e9230",
+    "ca/privacy.html": "9342626524d9ffb85212e4abde65508ebe9e1568b4a4009dd255c3f3d9ab3079",
+    "ca/support.html": "d94f4f40e57eba78c0c48b1bcfc54d54f0923924f1818aa0cbc05f0f74409830",
+    "cs/index.html": "3a51bc6891258a2d53897540fba845c5d8b84ec71e741b0cfa308e0ef8ab895c",
+    "cs/privacy.html": "bcc7cfbee531083211568be25014b4c7ec337615fb016c20a49fe321a8a8d4e0",
+    "cs/support.html": "41454d2930eb0b9eb543f690c0f1c68ff8d0da0a8441138289af1716a853ba02",
+    "da/index.html": "fa0430d2abf7661761bb22ded3fe3e323de1cc8dd0df1cda259a8ba4d6c55522",
+    "da/privacy.html": "e9c257801a9257738b355685b372fde13d588f6e0241cc85b46757e45a022a21",
+    "da/support.html": "21de2b9e2adceada8b15183a327a401408d4e8e6809bec46eeb17a6bb7aeb066",
+    "de-DE/index.html": "0e080693c7c21f30e19337dc6443c51dcae46910546ede98d17d6a23ae324343",
+    "de-DE/privacy.html": "650149d945e988a0030a13eef4cb34cbecb07319dee1f59ade791ee73f15e05e",
+    "de-DE/support.html": "d68ae1b539fca92d72dca33c174587bda6c1be3b165e740f9937d6de4d1b255b",
+    "el/index.html": "e1499c9c8d129bb3dd44dddad511301a7fe0eef10e242898552dd43b8c2673b9",
+    "el/privacy.html": "76b82ab8d8ba2ed05611bd4402813455fbef15eee0d2c5eb13c819cf2f9dc2c8",
+    "el/support.html": "1d2628a77011aa6d578f67cfc681e027ac297ce5007b09119c19679e375f7db2",
+    "es-ES/index.html": "b29850a63edff477d6253e00fe0022702de87b1c6591c98395c737dfad7ecae0",
+    "es-ES/privacy.html": "27fecb3323a4803a8cf3fa18f544846f9f58bcf919087e9776e48636b90950c4",
+    "es-ES/support.html": "27448c3f71cc5a6071c92ea902059d9cb8022c69eb1323a274fbca37cb4adb6c",
+    "es-MX/index.html": "1fbe2b5615dc19aa9a4a877df2ffb77b7802f01996fc102da7a58782b6683ee0",
+    "es-MX/privacy.html": "6359b70ac62aed6dd7c7bd374f4516107ce380162c56b517f73f89e9f93dae32",
+    "es-MX/support.html": "871abc5734044543baccaf9798816367b53754d11731bd69fe0ac69805a2d15a",
+    "fi/index.html": "c2dcc538a0e9f84deb5fc8bca3188b8748928efc4f77e939b6ea7072d1275811",
+    "fi/privacy.html": "49479c337ca2e0ced241bab889bca500c8a73f39633e8a9388ff595d9c086ee3",
+    "fi/support.html": "a16500801200c6cfe2db74008427f4114d4fce2102a32d23c38e7f7238b45614",
+    "fr-CA/index.html": "1b5aef21329a3bc810149cf0220f6602dcf126db376ff71d2cf66abd5d24eac5",
+    "fr-CA/privacy.html": "6c93120f24badf5bdfff552cb5c785429afc60086449d0e06782afa16b69bd91",
+    "fr-CA/support.html": "1d6ad1fe70cfa468f9ae79611e832fd9407953c689998bfbdf727e373317e8b3",
+    "fr-FR/index.html": "0f6a3cbcf934826c8e61edfbf41d02fa9a1e8d01dea572f0261575616e3b7147",
+    "fr-FR/privacy.html": "f9437fc0bed6d17438c7e4c43c5a28c7544dc6503265cec7d12a367fbcc533f6",
+    "fr-FR/support.html": "460d475db2ef73a03c402a4db79a3a2b39e3dedc6cc7ca8d172e85f1388bca37",
+    "gu-IN/index.html": "113bb5f07dd20b727a82988206de12d81d5b8aa0853d4156163b479d313f66db",
+    "gu-IN/privacy.html": "1857efeb76ddaefd7a5d153d572fec5d1ea51976157c2e67c3e9f3f0b78fed12",
+    "gu-IN/support.html": "0613db9da2484769d425569cf2052c43d6c82ecaafcd6c2109e8e5ed37f30ced",
+    "he/index.html": "f6463c6d0de1e5578b6cd4ca513bc2f630c004c13097ee6ad24da84da481046e",
+    "he/privacy.html": "f8813a49e35e8d99e89c8b17c5f95d37fcb8d697fd4c64d4819d3027a4d8e090",
+    "he/support.html": "9225ae11607d7db40fe7e2540d4aaa27495116db3e0fef4b8a6b478613b3b664",
+    "hi/index.html": "6ad6731e722e0ce31bde863072a6a7c540dd2603909a19a8ade0ec32d95f85f5",
+    "hi/privacy.html": "2ed2626ea5d13db0c19ff4f8e9ae4818257158871b3e46da6e09a50c30b83169",
+    "hi/support.html": "fbbdc48e8583399cb3a4c1e129b03a2189c8afe5289a43be0f614131402739c9",
+    "hr/index.html": "ca5d4dc7bc1ba1b3b36af8f9218ce4084d2866d690775697a5c905dbcbf7d0b6",
+    "hr/privacy.html": "0518e607b93f6c8c8dd30c11c2d3874ae8a23bf0d105ed8c6cb2bb52cfab84ca",
+    "hr/support.html": "816a3209eeb23d2e079cee0e6b68e5bb09864cc734fa9ca6f7496f4f1df85934",
+    "hu/index.html": "a1f61c2829ecd7eb600ad0b7edd583c185dd448f8d2cb96fa16e40268d10dffd",
+    "hu/privacy.html": "ed6d96af415c31e208d6f32ee54cf1c973d9f88359876f9dbba4e1777d30bdbf",
+    "hu/support.html": "3f9c6b5691aafe03125eb0513171f3de6741366907d1ce7ef48cbf4b726841ae",
+    "id/index.html": "dd9b95ff29398ba83512737af328118d71989d7aeb7deb9e390d642996776866",
+    "id/privacy.html": "6d5136b2f6be52052cb73ef8c6949b92ca352a6fdf509a98dc6b020f350a29ee",
+    "id/support.html": "53fab2f86cb9aa249b92e8675a30b8ab04125ba7791f886d5ecf60315df04bfd",
+    "it/index.html": "1625beaaf72e8d688f22f7ed803aefef5b5dc580c6e541b036f730d23b29ec03",
+    "it/privacy.html": "7023987d9fe031eba4750994db6603c794736251e7572e9e829e8f67677ddfc7",
+    "it/support.html": "793cf5ecb312402bdb6fbca07f47ec70ed644b023c0d976764c5106e2a3c1a2c",
+    "ja/index.html": "3e93a491c1a1b22707aefd0b9e38a47a9b8aa3f7e8d99816dfd3eecd79017d32",
+    "ja/privacy.html": "b5fbc08930c97514e845a5a937de7c2753db3ccf551db6e2244ba2d9fcde3bf6",
+    "ja/support.html": "fd4abf834d462db7c663bc6d79209a4fd570c6d152a537e934138ee4df61da15",
+    "kn-IN/index.html": "21895cd4da1bc1716f80d1ffdceb36b05a3d345ba00d9e55a3ad2ec6b0e16bce",
+    "kn-IN/privacy.html": "031038270d33233a8ce130a539e2021643322f3bf4b3d423d9eee5f1fb70cb32",
+    "kn-IN/support.html": "a1c86ad0fce7f1379f655480fdb2e9ebeef5fbd163389cb181af15e9b81db2db",
+    "ko/index.html": "40b8dcfcb2523ee37259df63dc4ae8c012fb4d891efb516ef065d4fe41f8f01e",
+    "ko/privacy.html": "cad26ff7744cd1a50cf21c37f521abc87abb5882b676ff9d10b86536dcc45284",
+    "ko/support.html": "b8729898b58417455a10149a4197cc85fa7090a47eeda93945a02c50824fd6d3",
+    "ml-IN/index.html": "614afa54dc2cee3b81ecfd5a07b00007d28feae2d20e07c5223c43349108faeb",
+    "ml-IN/privacy.html": "ff0b0f1dc5a8127aa226eb6622ef6b5fce74d98d9daa4ba5557269757d881264",
+    "ml-IN/support.html": "45394d712cee166015aaf785284145548929addf6d4646ef664f81fdd9e61604",
+    "mr-IN/index.html": "1c6713abcd76e0f4924da78b4c52b775f840c20f526aa4047ecaf5d586c8838b",
+    "mr-IN/privacy.html": "130f2bcda9afd448ae12bc20c01c03aa20111aa48221855bb16526d8953faae0",
+    "mr-IN/support.html": "c407d3d5c8ce9242c888b2de143efb67e311c1331a9ec80cd6cb008ada76b828",
+    "ms/index.html": "dc956d544aeb919c250e3016bd22cdc9760d0d84acd964b306e93bc09c38b548",
+    "ms/privacy.html": "26f775aafed3acce66c66090842c3c14f93d403b61c3b418887bc08217c67c6e",
+    "ms/support.html": "e0d1b2c174b1c393b03bb4867675c38de505a912b122974b184e8b186f8d0ac4",
+    "nl-NL/index.html": "cf1545330f1488091d0dbe3e8cd50bb778b0c21d6a6d1f2efa92b6db995c5dca",
+    "nl-NL/privacy.html": "ca8f55a18817ede95326448f48ca41494b382a757814c1ea6c4e14bdc7f9f2e9",
+    "nl-NL/support.html": "3e53ab320bdb7a80e706ab8c3eedf841f362a0701fe476b79de0c66b7de2d7c2",
+    "no/index.html": "07326a6226a968a7052071e05534da65e2bf0465ff1a0040ba6c68e04263cb90",
+    "no/privacy.html": "101be87f6677fea44a69d53bfe9ab6a58f1a431db7ea6b02b41a1410d0eb6fde",
+    "no/support.html": "2a4ec48c2df1ea3ab7bfacf81a4bb015c4a5ad0f777c12c1c3ee0dad43239480",
+    "pa-IN/index.html": "12d942794ced598f8af7248876edfbdbb5a3b52d931273abf17b6981f62eedab",
+    "pa-IN/privacy.html": "d96b52126d7975b837af9a6a3fd3c567f16a00adbf014a5c3b440e4fee34262f",
+    "pa-IN/support.html": "a9987d318ebda5b45bd0e728d2796192a81fa2d12af7252f53430d7f8303cf21",
+    "pl/index.html": "b41b0c68c02a7335025e238a3eae2b5e0014806ceb00b9ba0f5739737ede6427",
+    "pl/privacy.html": "4ca7b0fb7052de39555afc28cc303946aa2c89aa291542713a39cac6e4f3e51b",
+    "pl/support.html": "82e8e7b5926b4b55b345bc1aeb6f98115810123b6464d4df8d6259658a1e0a3e",
+    "pt-BR/index.html": "8bcfe969f879b8b071d9dfe0f6ed63858519e8a74014bcff259782193490f624",
+    "pt-BR/privacy.html": "2276474a9b44cdcc1870acd3c31b7e963f235a2a3a887b861dc91858a1d770db",
+    "pt-BR/support.html": "2b182b5b11a4d94f8f9d915e02bf9e868f0413474b353dc66e434bf3e4fda5b6",
+    "pt-PT/index.html": "812715640a5f75fed009e9b01e9f43e2a7f4d2dec8b59f4f0788c7b17289d4b6",
+    "pt-PT/privacy.html": "5bf19f64005c35219f84c9386f9e09d339c23004661107df334bc216470c6d8d",
+    "pt-PT/support.html": "0ef9eba992bd2c70c1a4874d43a54963b1b969ba3a6bc0121401475d16425d69",
+    "ro/index.html": "dbe141e334e384f9d60cae40bcea8952fa23dc6f8724043871a558422e6f300a",
+    "ro/privacy.html": "8a095cfb7a7fba3c73110fa1e9c7cda4cf59ebc97d47266b920a60e47eb9340f",
+    "ro/support.html": "72814afe62e6fc22c026d979b5861c9489c8b2aa9eec2ad52f59892c0ec08874",
+    "ru/index.html": "cf393dbe9a514426581b5b94faa0245a6ba990f68a69e5fcb5750e15c9507151",
+    "ru/privacy.html": "339405a0098dbff17c9a0b01344e2fdbb1b59bf2db231c4e68f674ae2957006b",
+    "ru/support.html": "8da011f4c69bf862e1306ad78e1eac387a0ba964c5f2e35007b0d0e67e87cca0",
+    "sk/index.html": "a6e34bb87dc24b058838805d9b4d228025fc03ca6a1a28edbe32aed884329d40",
+    "sk/privacy.html": "6d033cedefbf1416b91a78471440c37c2818c921422487c3eb6fa10d53f74c11",
+    "sk/support.html": "e79fb5d1909eae035a0965993637a435eda77c8059f011fa1d60e22b7bc394af",
+    "sl-SI/index.html": "670c9ddbb9900e2e2fcf7db24b9c1fbb2787d53a2d7f8292b5d8fb2042f5f462",
+    "sl-SI/privacy.html": "79d47a60252a0e8c138679e17e4b711ee911c8ae02f650ab7f5988de762ad5ea",
+    "sl-SI/support.html": "7bd0617485c7b96270ad3e936bcfaa011fc61258166ae60037352da6a1f88cef",
+    "sv/index.html": "9197d99cefac3bb176bccc3191b8f10a8d1c5f85ff77ca5f3e9240b8649ff9f0",
+    "sv/privacy.html": "fb7e1e1462890a3da51c0c0e0b8988a740e6c19d24197dd381057ad4826123bd",
+    "sv/support.html": "dc19148a0b4e0314e83f7ccd0a621d9375ffb3cc43c9b6253fc1e1d0ce977f67",
+    "ta-IN/index.html": "b03729f902c35249dac10f351b072f637c41105845cec4cdf2dc60cebfbe4e31",
+    "ta-IN/privacy.html": "1ac941fc1193fbccc82130e1d06d7c742e8823dc8c5238fa494fa7518be4d90b",
+    "ta-IN/support.html": "b7b61aa69bffdc0b4fcf16da0a51c58e3cbf6134742c404ef13e7c204a6e72d3",
+    "te-IN/index.html": "7403ce7cf1f91523eefd7e5f52295b21e7ce1db5e7a4e9d2aae36ccba63e1e80",
+    "te-IN/privacy.html": "7c454486a4d678e245726f12b00d2de10572f3d73830e69a040641dc6a332240",
+    "te-IN/support.html": "7812f2dbbc5e65b24fedd850e58dfc83ed8e6f906dbdaed8b67701ac9ccaa83b",
+    "th/index.html": "7cc6968709f91286baac152b2b8136d20e542ac8250174b455a92a2073954d55",
+    "th/privacy.html": "53364c4f809eb3f44056c8f5b0a795999824d96136cf6f058e80cf2ffa688200",
+    "th/support.html": "c3f9a22e4a2141640ada555e256c9ed8f5b473912495c684e8dd2bc4c92e70d7",
+    "tr/index.html": "a9a860b852d33b447544a7435fd7357b062317fc12f71dd38dcd11132f463033",
+    "tr/privacy.html": "af15bb255971f191c2dfda39e6242229a31ac6e12ed287c4e2a9c5006910eb2d",
+    "tr/support.html": "419de46739f6ab3a45f39efc0ed6af2b118cae7eb28cc05a595e0154f95d4c77",
+    "uk/index.html": "4eb5034dba94b8fad758a3ec75c9c1d8cc0179f79ce9949c8c078809948fdac2",
+    "uk/privacy.html": "ec06a6dd506c9801de67f0a252f9613374805c97e12e4e4f182695d2f812d774",
+    "uk/support.html": "b9995ce9bc1d0fef0c2faf0a1362bba7145a43dc66727a4ee97073e3cfcc3c67",
+    "ur-PK/index.html": "bf5b617e5cfb71ee33339b4442829bf3e2298f484b03100e7a95d6689977b0f8",
+    "ur-PK/privacy.html": "dded65354e7ccb6c940b8562d17ffafbcef41ddb263ce29feca9f5fd2514a9b8",
+    "ur-PK/support.html": "6b2a6e190c8a6997ecb13562f08edc74c5fa1b5fa6ea7ea992d13878e89cfc02",
+    "vi/index.html": "1bacec965c309ba8e56e6400899c0d45dae6440d2854b6e148987ec8199970bb",
+    "vi/privacy.html": "15e5a3701a0a84f8ebe1496b8618ccba63c8b1ac3eaf47c5d5af6aff4c0cc464",
+    "vi/support.html": "fbbc13784c90f744ee5b3b7e930509f46ead6d02acab3070c411a5b44bb2bd3a",
+    "zh-Hans/index.html": "0a2a8faaaf5acbdbdb71cf75e76802302d2de4cb75925c27339169386f40486d",
+    "zh-Hans/privacy.html": "b2d4fb09d83dd4eb6f96c4f13e0c1bd663f16e2ca49c3d969477378634dad33d",
+    "zh-Hans/support.html": "0397990ec2014aa3ad80f1c239b7d079d11153e8021a252a5d87883538c3fdec",
+    "zh-Hant/index.html": "778de629a4dc6b8dc65aba800126a79ef963d5146c0865804214e70cb4b510f6",
+    "zh-Hant/privacy.html": "bb3f809979477306b201b5ec80e58a30bb92b5abbb10ff533788c85b54f53f17",
+    "zh-Hant/support.html": "ccec965239c8ccefbbdf94d5d6eb973d51b854814ebbe8f0efbfdb83e6897375"
+  },
+  "preserved_surfaces": [
+    "ar-SA/index.html",
+    "ar-SA/privacy.html",
+    "ar-SA/support.html",
+    "bn-BD/index.html",
+    "bn-BD/privacy.html",
+    "bn-BD/support.html",
+    "ca/index.html",
+    "ca/privacy.html",
+    "ca/support.html",
+    "cs/index.html",
+    "cs/privacy.html",
+    "cs/support.html",
+    "da/index.html",
+    "da/privacy.html",
+    "da/support.html",
+    "de-DE/index.html",
+    "de-DE/privacy.html",
+    "de-DE/support.html",
+    "el/index.html",
+    "el/privacy.html",
+    "el/support.html",
+    "es-ES/index.html",
+    "es-ES/privacy.html",
+    "es-ES/support.html",
+    "es-MX/index.html",
+    "es-MX/privacy.html",
+    "es-MX/support.html",
+    "fi/index.html",
+    "fi/privacy.html",
+    "fi/support.html",
+    "fr-CA/index.html",
+    "fr-CA/privacy.html",
+    "fr-CA/support.html",
+    "fr-FR/index.html",
+    "fr-FR/privacy.html",
+    "fr-FR/support.html",
+    "gu-IN/index.html",
+    "gu-IN/privacy.html",
+    "gu-IN/support.html",
+    "he/index.html",
+    "he/privacy.html",
+    "he/support.html",
+    "hi/index.html",
+    "hi/privacy.html",
+    "hi/support.html",
+    "hr/index.html",
+    "hr/privacy.html",
+    "hr/support.html",
+    "hu/index.html",
+    "hu/privacy.html",
+    "hu/support.html",
+    "id/index.html",
+    "id/privacy.html",
+    "id/support.html",
+    "it/index.html",
+    "it/privacy.html",
+    "it/support.html",
+    "ja/index.html",
+    "ja/privacy.html",
+    "ja/support.html",
+    "kn-IN/index.html",
+    "kn-IN/privacy.html",
+    "kn-IN/support.html",
+    "ko/index.html",
+    "ko/privacy.html",
+    "ko/support.html",
+    "ml-IN/index.html",
+    "ml-IN/privacy.html",
+    "ml-IN/support.html",
+    "mr-IN/index.html",
+    "mr-IN/privacy.html",
+    "mr-IN/support.html",
+    "ms/index.html",
+    "ms/privacy.html",
+    "ms/support.html",
+    "nl-NL/index.html",
+    "nl-NL/privacy.html",
+    "nl-NL/support.html",
+    "no/index.html",
+    "no/privacy.html",
+    "no/support.html",
+    "pa-IN/index.html",
+    "pa-IN/privacy.html",
+    "pa-IN/support.html",
+    "pl/index.html",
+    "pl/privacy.html",
+    "pl/support.html",
+    "pt-BR/index.html",
+    "pt-BR/privacy.html",
+    "pt-BR/support.html",
+    "pt-PT/index.html",
+    "pt-PT/privacy.html",
+    "pt-PT/support.html",
+    "ro/index.html",
+    "ro/privacy.html",
+    "ro/support.html",
+    "ru/index.html",
+    "ru/privacy.html",
+    "ru/support.html",
+    "sk/index.html",
+    "sk/privacy.html",
+    "sk/support.html",
+    "sl-SI/index.html",
+    "sl-SI/privacy.html",
+    "sl-SI/support.html",
+    "sv/index.html",
+    "sv/privacy.html",
+    "sv/support.html",
+    "ta-IN/index.html",
+    "ta-IN/privacy.html",
+    "ta-IN/support.html",
+    "te-IN/index.html",
+    "te-IN/privacy.html",
+    "te-IN/support.html",
+    "th/index.html",
+    "th/privacy.html",
+    "th/support.html",
+    "tr/index.html",
+    "tr/privacy.html",
+    "tr/support.html",
+    "uk/index.html",
+    "uk/privacy.html",
+    "uk/support.html",
+    "ur-PK/index.html",
+    "ur-PK/privacy.html",
+    "ur-PK/support.html",
+    "vi/index.html",
+    "vi/privacy.html",
+    "vi/support.html",
+    "zh-Hans/index.html",
+    "zh-Hans/privacy.html",
+    "zh-Hans/support.html",
+    "zh-Hant/index.html",
+    "zh-Hant/privacy.html",
+    "zh-Hant/support.html"
+  ],
+  "rtl_locales": [
+    "ar-SA",
+    "he",
+    "ur-PK"
+  ],
+  "schema": "support-required-surfaces/v1",
+  "site_key": "picclear-support",
+  "verified_app_store_urls": [
+    "https://apps.apple.com/app/id6780223070",
+    "https://apps.apple.com/app/id6780223070)**",
+    "https://apps.apple.com/app/id6781808054?pt=118326163&ct=sup_picclear&mt=8",
+    "https://apps.apple.com/app/id6782275018?pt=118326163&ct=sup_picclear&mt=8",
+    "https://apps.apple.com/app/id6792850916?pt=118326163&ct=sup_picclear&mt=8",
+    "https://apps.apple.com/app/id6792856304?pt=118326163&ct=sup_picclear&mt=8",
+    "https://apps.apple.com/app/id{app_id"
+  ]
+}
