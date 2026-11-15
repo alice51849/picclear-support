@@ -14,6 +14,15 @@
 - [Privacy policy](https://open.cait518.cc/picclear-support/privacy.html)
 - [Support and FAQ](https://open.cait518.cc/picclear-support/support.html)
 
+## Quick facts and Q&A
+
+- [PicClear Pro: Photo Cleaner — the short facts](https://open.cait518.cc/picclear-support/ai-faq.html)
+- [PicClear Pro: Dọn ảnh trùng — thông tin ngắn gọn](https://open.cait518.cc/picclear-support/ai-faq.vi.html)
+- [PicClear Pro：照片清理·释放空间——简明事实](https://open.cait518.cc/picclear-support/ai-faq.zh-Hans.html)
+- [PicClear Pro: ล้างรูปซ้ำ — ข้อมูลสั้น ๆ](https://open.cait518.cc/picclear-support/ai-faq.th.html)
+- [iPhoneの容量を軽くする写真整理：質問と回答](https://open.cait518.cc/picclear-support/youryou-wo-karuku-suru-shashin-seiri-shitsumon.ja.html)
+- [Doppelte Fotos auf dem iPhone löschen: Fragen und Antworten](https://open.cait518.cc/picclear-support/doppelte-fotos-loeschen-fragen.de-DE.html)
+
 ## Portfolio
 
 - [All public iOS apps](https://alice51849.github.io/ios-app-guide/apps/index.html)
